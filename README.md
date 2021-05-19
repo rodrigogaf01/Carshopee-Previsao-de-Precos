@@ -1,5 +1,6 @@
 # Carshopee
 
+![Carshopee](https://github.com/rodrigogaf01/Carshopee-Previsao-de-Precos/blob/main/compracar.jpg)
 ### Contexto
 
 A CARSHOPEE atua no mercado automobilístico, caracterizada por ser uma empresa sólida, de tradição, que conjuga excelência no atendimento e veículos com rigorosa qualidade, com o objetivo único de tornar real o sonho de cada cliente.
