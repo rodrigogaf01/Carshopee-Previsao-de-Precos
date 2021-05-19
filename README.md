@@ -1,13 +1,40 @@
-# Previsao-Preco-dos-Carros
+# Carshopee
 
-## 1. Definindo o problema.
+### Contexto
 
-Desde 2012, o faturamento da empresa COMPRACAR vem oscilando frequentemente, o que deixou o dono alerta para começar a implementar possíveis mudanças no gerenciamento e na forma de lidar com o cliente. Porém, a partir do ano de 2016 vem acumulando  prejuízos. 
+A CARSHOPEE atua no mercado automobilístico, caracterizada por ser uma empresa sólida, de tradição, que conjuga excelência no atendimento e veículos com rigorosa qualidade, com o objetivo único de tornar real o sonho de cada cliente.
 
-O dono modernizou a empresa, criou site, estudou a concorrência e contratou melhores profissionais. No começo, essas mudanças tiveram um impacto significativo, porém não chegou no nível desejável. Foi então que o dono teve a ideia de que o maior problema era a compra de um carrosem saber se o valor desejável de revenda era aceitável. 
+Apostando em confiança e credibilidade como princípios fundamentais de sua atuação, a empresa busca no mercado somente veículos diferenciados, através de um rigoroso critério técnico de avaliação que garante qualidade e procedência.
 
-Para conseguir solucionar esse problema, se informou através de amigos e buscas na internet, conheceu o serviço de consultoria em ciência de dados  que prometia realizar essa análise e dizer o potencial preço do carro a ser revendido caso fosse comprado.
+A loja oferece automóveis de diversas marcas, semi-novos, Nacionais e Importados. Todos criteriosamente testados e avaliados, característica que a revenda traz consigo até hoje e a diferencia no mercado. E é assim que a CARSHOPEE solidificou a sua marca, com uma conduta ética e respeito a seus clientes, parceiros e fornecedores.
 
-### Objetivo
+### Problema de Negócio
 
-O objetivo é criar um modelo que consiga analisar os dados dos carros e estimar o preço que um futuro carro possa valer a partir dessa base de dados histórica.
+Em primeiro lugar, precisamos entender qual é o nosso problema de negócios. Portanto, criamos um contexto para nos ajudar a construir a solução. Então, vamos seguir essas quatro etapas.
+
+
+- Qual é o contexto?
+
+    * Em reunião com os gerentes da empresa, o dono demonstrou a sua procupação com o número de carros não vendidos.
+    
+    
+    
+- Qual é a causa?
+
+     * O dono procura uma maneira de saber o preço ideal de revenda dos carros antes de comprá-lo, para analisar se vale a pena o negócio, porém não só com o 'achismo' de seus especialistas, mas também com algum algoritmo matemático.
+     
+     
+### Etapas
+        
+Na próxima etapa, construiremos nossa solução. Portanto, seguiremos todas essas etapas a seguir.
+
+- 0.0. IMPORTS
+- 1.0. DESCRIÇÃO DOS DADOS
+- 2.0. FEATURE ENGINEERING
+- 3.0. FILTRANDO OS DADOS
+- 4.0. ANÁLISE EXPLORATÓRIA DOS DADOS
+- 5.0. PREPARAÇÃO OS DADOS
+- 6.0. SELEÇÃO DE FEATURES
+- 7.0. MACHINE LEARNING
+- 8.0. MAXIMIZANDO HIPERPARÂMETROS
+- 9.0. INTERPRETANDO OS RESULTADOS
